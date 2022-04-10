@@ -3,6 +3,11 @@
 ### This repo is not official nor maintained, it's used for the sake of this article: [Foundry Vs Hardhat](#)
 <hr></hr>
 
+### Check the official implementation of the [lsp-smart-contracts](https://github.com/lukso-network/lsp-smart-contracts)
+<hr></hr>
+
+
+
 ![Foundry vs Hardhat](https://user-images.githubusercontent.com/86341666/162625876-dc93f82e-e85a-49c4-9360-f596c309e9f6.png)
 <br>
 
