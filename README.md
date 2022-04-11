@@ -1,6 +1,6 @@
 # foundry-lsp-smart-contracts
 
-### This repo is not official nor maintained, it's used for the sake of this article: [Foundry Vs Hardhat](#)
+### This repo is not official nor maintained, it's used for the sake of this article: [Foundry Vs Hardhat](https://yamenmerhi.medium.com/foundry-vs-hardhat-918c55e47add)
 <hr></hr>
 
 ### Check the official implementation of the [lsp-smart-contracts](https://github.com/lukso-network/lsp-smart-contracts)
